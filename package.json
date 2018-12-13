@@ -1,8 +1,8 @@
 {
   "name": "vscode-theme-cloudy-mountain",
-  "displayName": "VS Code Theme Cloudy Mountain",
-  "version": "1.0.0",
-  "icon": "icon.png",
+  "displayName": "Cloudy Mountain Theme",
+  "version": "1.0.1",
+  "icon": "assets/icon.png",
   "publisher": "muuvmuuv",
   "description": "Cloudy Mountain VS Code theme based on VS Code Atom One Light Theme by Mahmoud Ali",
   "keywords": [
