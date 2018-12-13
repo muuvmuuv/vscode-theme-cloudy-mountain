@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img align="right" src="assets/icon.png" width="150">
+  <img align="right" src="https://raw.githubusercontent.com/muuvmuuv/vscode-theme-cloudy-mountain/master/assets/icon.png" width="150">
   <b>🌁 Cloudy Mountain 🌁</b>
 </h1>
 
@@ -11,4 +11,4 @@
 
 A modern cloudy mountain inspired theme for [VS Code](https://code.visualstudio.com/) with simple colors.
 
-![VSCode Sundial](assets/preview.png)
+![VSCode Sundial](https://raw.githubusercontent.com/muuvmuuv/vscode-theme-cloudy-mountain/master/assets/preview.png)
