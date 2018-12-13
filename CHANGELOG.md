@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 1.0.2
+
+* Renamed from Modern => Cloudy Mountain
+
+## Version 1.0.1
+
+* README typo, badges to https
+
 ## Version 1.0.0
 
 * Forked from https://github.com/akamud/vscode-theme-onelight
