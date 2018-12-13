@@ -1,0 +1,59 @@
+{
+  "name": "vscode-theme-cloudy-mountain",
+  "displayName": "VS Code Theme Cloudy Mountain",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "publisher": "muuvmuuv",
+  "description": "Cloudy Mountain VS Code theme based on VS Code Atom One Light Theme by Mahmoud Ali",
+  "keywords": [
+    "light",
+    "modern",
+    "theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://github.com/muuvmuuv/vscode-theme-modern",
+  "bugs": {
+    "email": "marvin.heilemann+github@googlemail.com"
+  },
+  "qna": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muuvmuuv/vscode-theme-modern"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "galleryBanner": {
+    "color": "#E8E8E8",
+    "theme": "light"
+  },
+  "badges": [
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/version/muuvmuuv.vscode-theme-modern.svg",
+      "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-modern",
+      "description": "Extension version"
+    },
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/installs/muuvmuuv.vscode-theme-modern.svg",
+      "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-modern",
+      "description": "Extension installs"
+    },
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/rating/muuvmuuv.vscode-theme-modern.svg",
+      "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-modern",
+      "description": "Extension Rating"
+    }
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modern",
+        "uiTheme": "vs",
+        "path": "./themes/Modern.json"
+      }
+    ]
+  }
+}
