@@ -1,49 +1,53 @@
 {
   "name": "vscode-theme-cloudy-mountain",
   "displayName": "Cloudy Mountain Theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "assets/icon.png",
   "publisher": "muuvmuuv",
   "description": "Cloudy Mountain VS Code theme based on VS Code Atom One Light Theme by Mahmoud Ali",
   "keywords": [
     "light",
     "modern",
-    "theme"
+    "theme",
+    "flat",
+    "color-theme",
+    "cloudy",
+    "mountain"
   ],
   "categories": [
     "Themes"
   ],
-  "homepage": "https://github.com/muuvmuuv/vscode-theme-modern",
+  "homepage": "https://github.com/muuvmuuv/vscode-theme-cloudy-mountain",
   "bugs": {
-    "email": "marvin.heilemann+github@googlemail.com"
+    "url": "https://github.com/muuvmuuv/vscode-theme-cloudy-mountain/issues"
   },
   "qna": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/muuvmuuv/vscode-theme-modern"
+    "url": "https://github.com/muuvmuuv/vscode-theme-cloudy-mountain"
   },
   "license": "SEE LICENSE IN LICENSE",
   "engines": {
     "vscode": "^1.30.0"
   },
   "galleryBanner": {
-    "color": "#E8E8E8",
+    "color": "#F2F2F2",
     "theme": "light"
   },
   "badges": [
     {
-      "url": "https://vsmarketplacebadge.apphb.com/version/muuvmuuv.vscode-theme-modern.svg",
-      "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-modern",
+      "url": "https://vsmarketplacebadge.apphb.com/version/muuvmuuv.vscode-theme-cloudy-mountain.svg",
+      "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-cloudy-mountain",
       "description": "Extension version"
     },
     {
-      "url": "https://vsmarketplacebadge.apphb.com/installs/muuvmuuv.vscode-theme-modern.svg",
-      "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-modern",
+      "url": "https://vsmarketplacebadge.apphb.com/installs/muuvmuuv.vscode-theme-cloudy-mountain.svg",
+      "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-cloudy-mountain",
       "description": "Extension installs"
     },
     {
-      "url": "https://vsmarketplacebadge.apphb.com/rating/muuvmuuv.vscode-theme-modern.svg",
-      "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-modern",
+      "url": "https://vsmarketplacebadge.apphb.com/rating/muuvmuuv.vscode-theme-cloudy-mountain.svg",
+      "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-cloudy-mountain",
       "description": "Extension Rating"
     }
   ],
@@ -52,7 +56,7 @@
       {
         "label": "Cloudy Mountain",
         "uiTheme": "vs",
-        "path": "./themes/Modern.json"
+        "path": "./themes/CloudyMountain.json"
       }
     ]
   }

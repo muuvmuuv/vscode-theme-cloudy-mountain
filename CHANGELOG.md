@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.0.3
+
+* Changed theme folder name
+
 ## Version 1.0.2
 
 * Renamed from Modern => Cloudy Mountain
