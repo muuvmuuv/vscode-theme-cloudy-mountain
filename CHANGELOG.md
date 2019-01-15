@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.0.4
+
+* Changed `statusBar.noFolderBackground` to dark
+
 ## Version 1.0.3
 
 * Changed theme folder name

@@ -1,7 +1,7 @@
 {
   "name": "vscode-theme-cloudy-mountain",
   "displayName": "Cloudy Mountain Theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "assets/icon.png",
   "publisher": "muuvmuuv",
   "description": "Cloudy Mountain VS Code theme based on VS Code Atom One Light Theme by Mahmoud Ali",
@@ -14,9 +14,7 @@
     "cloudy",
     "mountain"
   ],
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "homepage": "https://github.com/muuvmuuv/vscode-theme-cloudy-mountain",
   "bugs": {
     "url": "https://github.com/muuvmuuv/vscode-theme-cloudy-mountain/issues"
@@ -39,13 +37,11 @@
       "url": "https://vsmarketplacebadge.apphb.com/version/muuvmuuv.vscode-theme-cloudy-mountain.svg",
       "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-cloudy-mountain",
       "description": "Extension version"
-    },
-    {
+    }, {
       "url": "https://vsmarketplacebadge.apphb.com/installs/muuvmuuv.vscode-theme-cloudy-mountain.svg",
       "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-cloudy-mountain",
       "description": "Extension installs"
-    },
-    {
+    }, {
       "url": "https://vsmarketplacebadge.apphb.com/rating/muuvmuuv.vscode-theme-cloudy-mountain.svg",
       "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-cloudy-mountain",
       "description": "Extension Rating"
