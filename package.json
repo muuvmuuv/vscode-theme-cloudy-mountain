@@ -14,7 +14,9 @@
     "cloudy",
     "mountain"
   ],
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "homepage": "https://github.com/muuvmuuv/vscode-theme-cloudy-mountain",
   "bugs": {
     "url": "https://github.com/muuvmuuv/vscode-theme-cloudy-mountain/issues"
@@ -28,6 +30,14 @@
   "engines": {
     "vscode": "^1.30.0"
   },
+  "scripts": {
+    "pretty": "pretty-quick"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run pretty"
+    }
+  },
   "galleryBanner": {
     "color": "#F2F2F2",
     "theme": "light"
@@ -37,11 +47,13 @@
       "url": "https://vsmarketplacebadge.apphb.com/version/muuvmuuv.vscode-theme-cloudy-mountain.svg",
       "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-cloudy-mountain",
       "description": "Extension version"
-    }, {
+    },
+    {
       "url": "https://vsmarketplacebadge.apphb.com/installs/muuvmuuv.vscode-theme-cloudy-mountain.svg",
       "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-cloudy-mountain",
       "description": "Extension installs"
-    }, {
+    },
+    {
       "url": "https://vsmarketplacebadge.apphb.com/rating/muuvmuuv.vscode-theme-cloudy-mountain.svg",
       "href": "https://marketplace.visualstudio.com/items/muuvmuuv.vscode-theme-cloudy-mountain",
       "description": "Extension Rating"
@@ -55,5 +67,10 @@
         "path": "./themes/CloudyMountain.json"
       }
     ]
+  },
+  "devDependencies": {
+    "husky": "^1.3.1",
+    "prettier": "^1.17.0",
+    "pretty-quick": "^1.10.0"
   }
 }

@@ -9,6 +9,7 @@
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/muuvmuuv.vscode-theme-cloudy-mountain.svg)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/rating-star/muuvmuuv.vscode-theme-cloudy-mountain.svg)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
 
-A modern cloudy mountain inspired theme for [VS Code](https://code.visualstudio.com/) with simple colors.
+A modern cloudy mountain inspired theme for
+[VS Code](https://code.visualstudio.com/) with simple colors.
 
 ![VSCode Sundial](https://raw.githubusercontent.com/muuvmuuv/vscode-theme-cloudy-mountain/master/assets/preview.png)
