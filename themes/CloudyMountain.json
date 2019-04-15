@@ -49,7 +49,7 @@
     "panel.border": "#cecfce",
     "panelTitle.activeBorder": "#21232a",
     "panelTitle.activeForeground": "#21232a",
-    "panelTitle.inactiveForeground": "#686868",
+    "panelTitle.inactiveForeground": "#929292",
     "peekView.border": "#526fff",
     "peekViewEditor.background": "#ffffff",
     "peekViewResult.background": "#eaeaeb",
@@ -70,14 +70,18 @@
     "statusBar.foreground": "#f3f3f3",
     "statusBarItem.hoverBackground": "#dbdbdc",
     "tab.activeBackground": "#fafafa",
-    "tab.activeBorder": "#21232a",
     "tab.activeModifiedBorder": "#21232a",
     "tab.border": "#e4e4e4",
     "tab.inactiveBackground": "#fafafa",
+    "tab.activeBorder": "#FAFAFA",
+    "tab.activeBorderTop": "#21242A",
+    "tab.activeForeground": "#21242A",
+    "tab.inactiveForeground": "#929292",
     "titleBar.activeBackground": "#21232a",
     "titleBar.activeForeground": "#a1a1a1",
     "titleBar.inactiveBackground": "#21232a",
-    "titleBar.inactiveForeground": "#a1a1a1"
+    "titleBar.inactiveForeground": "#a1a1a1",
+    "terminal.border": "#CECFCE"
   },
   "tokenColors": [
     {
