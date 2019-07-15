@@ -1,7 +1,7 @@
 {
   "name": "vscode-theme-cloudy-mountain",
   "displayName": "Cloudy Mountain Theme",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "icon": "assets/icon.png",
   "publisher": "muuvmuuv",
   "description": "Cloudy Mountain VS Code theme based on VS Code Atom One Light Theme by Mahmoud Ali",
@@ -31,7 +31,9 @@
     "vscode": "^1.30.0"
   },
   "scripts": {
+    "start": "npm run watch",
     "generate": "node ./scripts/generate.js",
+    "watch": "nodemon --watch themes --ext yaml ./scripts/generate.js",
     "pretty": "pretty-quick"
   },
   "husky": {
@@ -71,6 +73,7 @@
   },
   "devDependencies": {
     "husky": "^1.3.1",
+    "nodemon": "^1.19.1",
     "prettier": "^1.17.0",
     "pretty-quick": "^1.10.0"
   },

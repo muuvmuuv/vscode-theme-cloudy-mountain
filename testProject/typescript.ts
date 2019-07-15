@@ -7,10 +7,11 @@ interface MyInterface {
 
 type RequestType = 'GET' | 'HEAD'
 
-export abstract class Foo implements MyInterface {
-  private _baz: RequestType
+d
 
-  constructor() {
+export abstract class Foo implements MyInterface {
+ 
+  constructor() 
     console.log(this._baz)
 
     this.foo()

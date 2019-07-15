@@ -1,12 +1,1 @@
-{
-  "workbench.colorTheme": "Cloudy Mountain",
-  "editor.rulers": [70],
-  // "workbench.editor.showTabs": false,
-  // "editor.cursorStyle": "underline",
-  // "editor.cursorBlinking": "blink",
-  "workbench.colorCustomizations": {
-    "listFilterWidget.background": "#f3f3f3",
-    "listFilterWidget.noMatchesOutline": "#ff2d2d",
-    "listFilterWidget.outline": "#cfcfcf"
-  }
-}
+{}

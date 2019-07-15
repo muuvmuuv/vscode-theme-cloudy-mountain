@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 2.0.1
+
+- Updated README
+- Fixed line numbers brightness
+- Fixed text selection background
+
 ## Version 2.0.0
 
 - Created a script to generate theme file

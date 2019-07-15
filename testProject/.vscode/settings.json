@@ -1,3 +1,13 @@
 {
-  "workbench.colorTheme": "Cloudy Mountain"
+  // "workbench.colorTheme": "Cloudy Mountain",
+  "editor.rulers": [
+    60
+  ],
+  // "workbench.editor.showTabs": false,
+  // "editor.cursorStyle": "underline",
+  // "editor.cursorBlinking": "blink",
+  "workbench.colorCustomizations": {
+    // "editorRuler.foreground": "#e3e3e3",
+    // "editorLineNumber.foreground": "#cfcfcf"
+  }
 }

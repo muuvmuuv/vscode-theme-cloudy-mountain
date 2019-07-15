@@ -16,11 +16,12 @@ async function generate() {
   let themeTokenColors = await getThemeTokenColors(colorThemeName)
 
   Object.keys(themeColors).forEach(name => {
-    const match = themeColors[name].match(/{{(.*?)}}/i)
+    const value = themeColors[name]
+    const match = value.match(/{{(.*?)}}/i)
     if (match) {
       const color = colors[match[1]]
       if (color) {
-        themeColors[name] = color
+        themeColors[name] = value.replace(match[0], color)
       } else {
         throw new Error(`Ooops, this variable does not exist: ${name}`)
       }

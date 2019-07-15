@@ -3,11 +3,11 @@
   <b>🏔 Cloudy Mountain 🏔</b>
 </h1>
 
-[![Install Cloudy Mountain Theme](https://img.shields.io/badge/install-vscode_theme-blue.svg?logoColor=FFF&logo=visualstudiocode&style=for-the-badge&colorA=4AA0F4)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
+[![Install Cloudy Mountain Theme](https://img.shields.io/badge/vscode-install_theme-blue.svg?logoColor=FFF&logo=visual-studio-code&style=for-the-badge&color=305eff&colorA=597dff)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
 
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version-short/muuvmuuv.vscode-theme-cloudy-mountain.svg)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/muuvmuuv.vscode-theme-cloudy-mountain.svg)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/rating-star/muuvmuuv.vscode-theme-cloudy-mountain.svg)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/muuvmuuv.vscode-theme-cloudy-mountain.svg?style=flat-square&color=597dff)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/muuvmuuv.vscode-theme-cloudy-mountain.svg?style=flat-square&color=597dff)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/stars/muuvmuuv.vscode-theme-cloudy-mountain.svg?style=flat-square&color=597dff)](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-theme-cloudy-mountain)
 
 A modern cloudy mountain inspired theme for
 [VS Code](https://code.visualstudio.com/) with simple colors. Token Colors are
@@ -15,8 +15,3 @@ copied from
 [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight).
 
 ![VSCode Sundial](https://raw.githubusercontent.com/muuvmuuv/vscode-theme-cloudy-mountain/master/assets/preview.png)
-
-## Todo
-
-- [] Peak View:
-  https://code.visualstudio.com/api/references/theme-color#peek-view-colors
