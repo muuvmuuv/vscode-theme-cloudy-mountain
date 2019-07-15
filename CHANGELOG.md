@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 2.0.0
+
+- Created a script to generate theme file
+- Created three files with different purposes
+- Consistent color using with variables
+- Almost all references are used now
+- Increased contrast
+
 ## Version 1.0.4
 
 - Changed `statusBar.noFolderBackground` to dark

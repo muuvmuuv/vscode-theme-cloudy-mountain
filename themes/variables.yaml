@@ -1,0 +1,43 @@
+color-primary: '#21242a'
+color-primary-active: '#4d5055'
+color-secondary: '#305eff'
+color-secondary-active: '#859fff'
+
+color-default: '#ff0000'
+color-highlight: '#c800e2'
+
+color-dark-1: '#21242a' # color-secondary
+color-dark-2: '#373a3f'
+color-dark-3: '#4d5055'
+color-dark-4: '#64666a'
+color-dark-5: '#7a7c7f'
+
+color-light-1: '#cfcfcf' # border
+color-light-2: '#d8d8d8'
+color-light-3: '#e3e3e3'
+color-light-4: '#f3f3f3' # widget-bg
+color-light-5: '#fafafa'
+
+color-yellow-1: '#e99c29'
+color-yellow-2: '#e9ac52'
+color-yellow-3: '#e8bb79'
+color-yellow-4: '#e8cba0'
+color-yellow-5: '#e8dbc8'
+
+color-red-1: '#ff2d2d'
+color-red-2: '#ff5959'
+color-red-3: '#ff8585'
+color-red-4: '#ffb0b0'
+color-red-5: '#ffdbdb'
+
+color-blue-1: '#305eff' # color-primary
+color-blue-2: '#597dff'
+color-blue-3: '#859fff'
+color-blue-4: '#b0c1ff'
+color-blue-5: '#dbe3ff'
+
+color-green-1: '#21b121'
+color-green-2: '#39c138'
+color-green-3: '#51d151'
+color-green-4: '#69df69'
+color-green-5: '#81ef81'

@@ -1,0 +1,436 @@
+# contrastActiveBorder: "{{color-default}"
+# contrastBorder: "{{color-default}"
+focusBorder: '{{color-primary}}'
+foreground: '{{color-primary}}'
+widget.shadow: '{{color-light-1}}'
+selection.background: '{{color-secondary}}40'
+descriptionForeground: '{{color-dark-5}}'
+errorForeground: '{{color-light-5}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Text
+
+textBlockQuote.background: '{{color-light-4}}'
+textBlockQuote.border: '{{color-secondary}}'
+# textCodeBlock.background: "{{color-default}"
+textLink.activeForeground: '{{color-secondary-active}}'
+textLink.foreground: '{{color-secondary}}'
+textPreformat.foreground: '{{color-dark-5}}'
+# textSeparator.foreground: "{{color-default}"
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Button control
+
+button.background: '{{color-secondary}}'
+button.foreground: '{{color-light-5}}'
+button.hoverBackground: '{{color-secondary-active}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Dropdown control
+
+dropdown.background: '{{color-light-4}}'
+dropdown.listBackground: '{{color-light-4}}'
+dropdown.border: '{{color-light-2}}'
+dropdown.foreground: '{{color-primary}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Input control
+
+input.background: '{{color-light-5}}'
+input.border: '{{color-light-1}}'
+input.foreground: '{{color-primary}}'
+input.placeholderForeground: '{{color-dark-5}}'
+inputOption.activeBorder: '{{color-primary}}'
+inputValidation.errorBackground: '#ffeded'
+inputValidation.errorForeground: '{{color-red-1}}'
+inputValidation.errorBorder: '{{color-red-1}}'
+inputValidation.infoBackground: '#e6ecff'
+inputValidation.infoForeground: '{{color-secondary}}'
+inputValidation.infoBorder: '{{color-secondary}}'
+inputValidation.warningBackground: '#fff4e3'
+inputValidation.warningForeground: '{{color-yellow-1}}'
+inputValidation.warningBorder: '{{color-yellow-1}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Scrollbar control
+
+scrollbar.shadow: '{{color-light-2}}'
+scrollbarSlider.background: '{{color-light-1}}80'
+scrollbarSlider.hoverBackground: '{{color-light-1}}85'
+scrollbarSlider.activeBackground: '{{color-light-1}}80'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Badge
+
+badge.background: '{{color-secondary}}'
+badge.foreground: '{{color-light-5}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Progress bar
+
+progressBar.background: '{{color-secondary}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Lists and trees
+
+list.activeSelectionBackground: '{{color-light-3}}'
+list.activeSelectionForeground: '{{color-primary}}'
+list.dropBackground: '{{color-light-3}}'
+list.focusBackground: '{{color-light-3}}'
+list.focusForeground: '{{color-primary}}'
+list.hoverForeground: '{{color-primary}}'
+list.inactiveFocusBackground: '{{color-light-3}}'
+# list.invalidItemForeground: "??????"
+list.errorForeground: '{{color-red-1}}'
+list.warningForeground: '{{color-yellow-1}}'
+list.highlightForeground: '{{color-secondary}}'
+list.hoverBackground: '{{color-light-3}}'
+list.inactiveSelectionBackground: '{{color-light-3}}'
+list.inactiveSelectionForeground: '{{color-primary}}'
+listFilterWidget.background: '{{color-light-4}}'
+listFilterWidget.noMatchesOutline: '{{color-red-1}}'
+listFilterWidget.outline: '{{color-light-1}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Activity bar
+
+# activityBar.border: "no-border"
+activityBar.background: '{{color-primary}}'
+activityBar.foreground: '{{color-light-5}}'
+activityBar.inactiveForeground: '{{color-dark-5}}'
+activityBar.dropBackground: '{{color-dark-2}}'
+activityBarBadge.background: '{{color-secondary}}'
+activityBarBadge.foreground: '{{color-light-5}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Sidebar
+
+sideBar.background: '{{color-light-4}}'
+sideBar.foreground: '{{color-primary}}'
+sideBar.border: '{{color-light-1}}'
+sideBar.dropBackground: '{{color-light-4}}'
+sideBarTitle.foreground: '{{color-primary}}'
+sideBarSectionHeader.background: '{{color-light-3}}'
+sideBarSectionHeader.foreground: '{{color-primary}}'
+# sideBarSectionHeader.border: "no-border"
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Editor Groups & Tabs
+
+editorGroup.border: '{{color-light-1}}'
+editorGroup.dropBackground: '{{color-light-1}}40'
+editorGroup.emptyBackground: '{{color-light-5}}'
+editorGroup.focusedEmptyBorder: '{{color-primary}}'
+editorGroupHeader.noTabsBackground: '{{color-light-4}}'
+editorGroupHeader.tabsBackground: '{{color-light-4}}'
+editorGroupHeader.tabsBorder: '{{color-light-1}}'
+
+tab.border: '{{color-light-3}}'
+tab.hoverBorder: '{{color-light-5}}'
+tab.hoverBackground: '{{color-light-5}}'
+tab.activeBackground: '{{color-light-5}}'
+tab.activeForeground: '{{color-primary}}'
+# tab.activeBorder: "{{color-primary}}"
+tab.activeBorderTop: '{{color-primary}}'
+tab.activeModifiedBorder: '{{color-secondary}}'
+tab.inactiveBackground: '{{color-light-4}}'
+tab.inactiveForeground: '{{color-dark-4}}'
+tab.inactiveModifiedBorder: '{{color-blue-4}}'
+# tab.unfocusedHoverBackground: "inherit"
+# tab.unfocusedHoverBorder: "inherit"
+# tab.unfocusedActiveBackground: "inherit"
+# tab.unfocusedActiveForeground: "inherit"
+# tab.unfocusedActiveBorder: "{{color-light-5}}"
+tab.unfocusedActiveBorderTop: '{{color-light-5}}'
+tab.unfocusedActiveModifiedBorder: '{{color-blue-4}}'
+# tab.unfocusedInactiveForeground: "inherit"
+# tab.unfocusedInactiveModifiedBorder: "inherit"
+editorPane.background: '{{color-light-4}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Editor
+
+editor.background: '{{color-light-5}}'
+editor.foreground: '{{color-primary}}'
+editorCursor.background: '{{color-primary}}'
+editorCursor.foreground: '{{color-primary}}'
+editor.selectionBackground: '{{color-secondary}}40'
+editor.selectionForeground: '{{color-primary}}'
+editor.inactiveSelectionBackground: '{{color-light-3}}'
+editor.selectionHighlightBackground: '{{color-light-3}}'
+# editor.selectionHighlightBorder: "no-border"
+editor.wordHighlightBackground: '{{color-light-3}}'
+# editor.wordHighlightBorder: "no-border"
+editor.wordHighlightStrongBackground: '{{color-secondary-active}}50'
+# editor.wordHighlightStrongBorder: "no-border"
+
+# Find & Match
+editor.findMatchBackground: '{{color-red-4}}'
+editor.findMatchHighlightBackground: '{{color-red-5}}'
+editor.findRangeHighlightBackground: '{{color-red-5}}'
+# editor.findRangeHighlightBorder: "no-border"
+# editor.findMatchBorder: "no-border"
+# editor.findMatchHighlightBorder: "no-border"
+# editor.findRangeHighlightBorder: "no-border"
+
+# Extras
+editor.hoverHighlightBackground: '{{color-light-3}}80'
+editor.lineHighlightBackground: '{{color-light-4}}'
+# editor.lineHighlightBorder: "no-border"
+editor.rangeHighlightBackground: '{{color-red-5}}'
+# editor.rangeHighlightBorder: "no-border"
+# editor.findRangeHighlightBorder: "{{color-red-3}}"
+# editorLink.activeForeground: "{{color-secondary}}"
+editorLineNumber.foreground: '{{color-light-2}}'
+editorLineNumber.activeForeground: '{{color-primary}}'
+editorWhitespace.foreground: '{{color-light-3}}'
+editorIndentGuide.background: '{{color-light-3}}'
+editorIndentGuide.activeBackground: '{{color-light-1}}'
+editorRuler.foreground: '{{color-light-4}}'
+
+# CodeLens
+# editorCodeLens.foreground: "{{color-default}"
+
+# Bracket matches
+editorBracketMatch.background: '{{color-light-1}}'
+editorBracketMatch.border: '{{color-light-1}}'
+
+# Overview ruler
+editorOverviewRuler.border: '{{color-light-1}}'
+editorOverviewRuler.findMatchForeground: '{{color-red-5}}'
+editorOverviewRuler.rangeHighlightForeground: '{{color-primary}}'
+editorOverviewRuler.selectionHighlightForeground: '{{color-light-1}}'
+editorOverviewRuler.wordHighlightForeground: '{{color-dark-5}}'
+editorOverviewRuler.wordHighlightStrongForeground: '{{color-light-1}}'
+editorOverviewRuler.modifiedForeground: '{{color-primary}}90'
+editorOverviewRuler.addedForeground: '{{color-green-1}}90'
+editorOverviewRuler.deletedForeground: '{{color-red-1}}90'
+editorOverviewRuler.errorForeground: '{{color-red-1}}90'
+editorOverviewRuler.warningForeground: '{{color-yellow-1}}90'
+editorOverviewRuler.infoForeground: '{{color-secondary}}90'
+editorOverviewRuler.bracketMatchForeground: '{{color-light-1}}'
+
+# Events
+editorError.foreground: '{{color-red-1}}'
+# editorError.border: "no-border"
+editorWarning.foreground: '{{color-yellow-1}}'
+# editorWarning.border: "no-border"
+editorInfo.foreground: '{{color-secondary}}'
+# editorInfo.border: "no-border"
+editorHint.foreground: '{{color-green-1}}'
+# editorHint.border: "no-border"
+
+# Unused source code
+# editorUnnecessaryCode.border: "no-border"
+# editorUnnecessaryCode.opacity: "?????"
+
+# Gutter
+editorGutter.background: '{{color-light-5}}'
+editorGutter.modifiedBackground: '{{color-primary}}90'
+editorGutter.addedBackground: '{{color-green-1}}90'
+editorGutter.deletedBackground: '{{color-red-1}}90'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Diff Editor
+
+diffEditor.insertedTextBackground: '{{color-blue-5}}'
+diffEditor.removedTextBackground: '{{color-red-5}}'
+# diffEditor.border: "no-border"
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Editor Widget
+
+editorWidget.background: '{{color-light-4}}'
+editorWidget.border: '{{color-primary}}'
+editorWidget.resizeBorder: '{{color-primary}}'
+editorSuggestWidget.background: '{{color-light-4}}'
+editorSuggestWidget.border: '{{color-light-1}}'
+editorSuggestWidget.highlightForeground: '{{color-secondary}}'
+editorSuggestWidget.foreground: '{{color-primary}}'
+editorSuggestWidget.selectedBackground: '{{color-light-2}}'
+editorHoverWidget.background: '{{color-light-4}}'
+editorHoverWidget.border: '{{color-light-1}}'
+editorHoverWidget.statusBarBackground: '{{color-light-4}}'
+debugExceptionWidget.background: '{{color-light-4}}'
+debugExceptionWidget.border: '{{color-red-1}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Peek View
+
+peekView.border: '{{color-secondary}}'
+# peekViewEditor.background: "inherit"
+# peekViewEditorGutter.background: "inherit"
+peekViewEditor.matchHighlightBackground: '{{color-red-5}}'
+peekViewEditor.matchHighlightBorder: '{{color-red-4}}'
+peekViewResult.background: '{{color-light-4}}'
+peekViewResult.fileForeground: '{{color-primary}}'
+peekViewResult.lineForeground: '{{color-dark-5}}'
+peekViewResult.matchHighlightBackground: '{{color-red-5}}'
+peekViewResult.selectionBackground: '{{color-light-3}}'
+peekViewResult.selectionForeground: '{{color-primary}}'
+peekViewTitle.background: '{{color-secondary}}'
+peekViewTitleDescription.foreground: '{{color-blue-4}}'
+peekViewTitleLabel.foreground: '{{color-light-5}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Merge Conflicts
+
+# https:#code.visualstudio.com/api/references/theme-color#merge-conflicts
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Panel
+
+panel.background: '{{color-light-5}}'
+panel.border: '{{color-light-1}}'
+panel.dropBackground: '{{color-light-1}}40'
+panelTitle.activeBorder: '{{color-primary}}'
+panelTitle.activeForeground: '{{color-primary}}'
+panelTitle.inactiveForeground: '{{color-dark-5}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Status Bar
+
+statusBar.background: '{{color-primary}}'
+statusBar.foreground: '{{color-light-5}}'
+# statusBar.border: "no-border"
+statusBar.debuggingBackground: '{{color-secondary}}'
+statusBar.debuggingForeground: '{{color-light-5}}'
+# statusBar.debuggingBorder: "no-border"
+# statusBar.noFolderBackground: "inherit"
+# statusBar.noFolderBorder: "inherit"
+# statusBar.noFolderForeground: "inherit"
+statusBarItem.activeBackground: '{{color-primary-active}}'
+statusBarItem.hoverBackground: '{{color-primary-active}}'
+statusBarItem.prominentBackground: '{{color-secondary}}'
+statusBarItem.prominentForeground: '{{color-light-5}}'
+statusBarItem.prominentHoverBackground: '{{color-primary-active}}'
+statusBarItem.remoteBackground: '{{color-secondary}}'
+statusBarItem.remoteForeground: '{{color-light-5}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Title Bar
+
+titleBar.activeBackground: '{{color-primary}}'
+titleBar.activeForeground: '{{color-light-5}}'
+titleBar.inactiveBackground: '{{color-primary}}'
+titleBar.inactiveForeground: '{{color-light-5}}'
+# titleBar.border: "no-border"
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Menu bar (Linux and Windows only)
+
+# menubar.selectionBackground: "{{color-default}"
+# menubar.selectionForeground: "{{color-default}"
+# menubar.selectionBorder: "{{color-default}"
+# menu.background: "{{color-default}"
+# menu.foreground: "{{color-default}"
+# menu.border: "{{color-default}"
+# menu.selectionBackground: "{{color-default}"
+# menu.selectionForeground: "{{color-default}"
+# menu.selectionBorder: "{{color-default}"
+# menu.separatorBackground: "{{color-default}"
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Notifications
+
+notificationCenter.border: '{{color-light-1}}'
+notificationCenterHeader.background: '{{color-light-4}}'
+notificationCenterHeader.foreground: '{{color-primary}}'
+notificationToast.border: '{{color-light-1}}'
+notifications.background: '{{color-light-5}}'
+notifications.foreground: '{{color-primary}}'
+notifications.border: '{{color-light-3}}'
+notificationLink.foreground: '{{color-secondary}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Extensions
+
+extensionButton.prominentBackground: '{{color-green-1}}'
+extensionButton.prominentForeground: '{{color-light-5}}'
+extensionButton.prominentHoverBackground: '{{color-green-3}}'
+# extensionBadge.remoteBackground: "{{color-default}"
+# extensionBadge.remoteForeground: "{{color-default}"
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Quick picker
+
+# pickerGroup.border: "{{color-default}"
+# pickerGroup.foreground: "{{color-default}"
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Terminal
+
+terminal.background: '{{color-light-5}}'
+terminal.border: '{{color-light-3}}'
+terminal.foreground: '{{color-primary}}'
+terminal.selectionBackground: '{{color-secondary}}40'
+terminalCursor.background: '{{color-primary}}'
+terminalCursor.foreground: '{{color-primary}}'
+terminal.ansiBlack: '{{color-primary}}'
+terminal.ansiBrightBlack: '{{color-dark-4}}'
+terminal.ansiBlue: '{{color-secondary}}'
+terminal.ansiBrightBlue: '{{color-secondary-active}}'
+terminal.ansiGreen: '{{color-green-1}}'
+terminal.ansiBrightGreen: '{{color-green-3}}'
+terminal.ansiRed: '{{color-red-1}}'
+terminal.ansiBrightRed: '{{color-red-3}}'
+terminal.ansiYellow: '{{color-yellow-1}}'
+terminal.ansiBrightYellow: '{{color-yellow-3}}'
+terminal.ansiWhite: '{{color-light-5}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Debug
+
+debugToolBar.background: '{{color-light-4}}'
+# debugToolBar.border: "no-border"
+# editor.stackFrameHighlightBackground: "{{color-default}"
+# editor.focusedStackFrameHighlightBackground: "{{color-default}"
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Welcome page
+
+welcomePage.background: '{{color-light-5}}'
+welcomePage.buttonBackground: '{{color-light-4}}'
+welcomePage.buttonHoverBackground: '{{color-light-5}}'
+walkThrough.embeddedEditorBackground: '{{color-light-4}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Git colors
+
+# https:#code.visualstudio.com/api/references/theme-color#git-colors
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Settings Editor colors
+
+settings.headerForeground: '{{color-secondary}}'
+settings.modifiedItemIndicator: '{{color-secondary}}'
+settings.dropdownBackground: '{{color-light-5}}'
+settings.dropdownForeground: '{{color-primary}}'
+settings.dropdownBorder: '{{color-light-1}}'
+settings.dropdownListBorder: '{{color-light-3}}'
+settings.checkboxBackground: '{{color-light-5}}'
+settings.checkboxForeground: '{{color-primary}}'
+settings.checkboxBorder: '{{color-light-1}}'
+settings.textInputBackground: '{{color-light-5}}'
+settings.textInputForeground: '{{color-primary}}'
+settings.textInputBorder: '{{color-light-1}}'
+settings.numberInputBackground: '{{color-light-5}}'
+settings.numberInputForeground: '{{color-primary}}'
+settings.numberInputBorder: '{{color-light-1}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Breadcrumbs
+
+breadcrumb.background: '{{color-light-5}}'
+breadcrumb.foreground: '{{color-dark-5}}'
+breadcrumb.focusForeground: '{{color-primary}}'
+breadcrumb.activeSelectionForeground: '{{color-primary}}'
+breadcrumbPicker.background: '{{color-light-4}}'
+
+# ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+# Snippets
+
+editor.snippetTabstopHighlightBackground: '#00000000'
+editor.snippetTabstopHighlightBorder: '{{color-secondary}}'
+# editor.snippetFinalTabstopHighlightBackground: "no-bg"
+editor.snippetFinalTabstopHighlightBorder: '{{color-secondary}}'
