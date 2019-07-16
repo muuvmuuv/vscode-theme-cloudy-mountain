@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2.1.0
+
+- Added color for `noFolderBackground`
+
 ## Version 2.0.1
 
 - Updated README

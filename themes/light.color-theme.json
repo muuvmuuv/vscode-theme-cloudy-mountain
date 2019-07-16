@@ -173,6 +173,8 @@
     "statusBar.foreground": "#fafafa",
     "statusBar.debuggingBackground": "#305eff",
     "statusBar.debuggingForeground": "#fafafa",
+    "statusBar.noFolderBackground": "#21242a",
+    "statusBar.noFolderForeground": "#fafafa",
     "statusBarItem.activeBackground": "#4d5055",
     "statusBarItem.hoverBackground": "#4d5055",
     "statusBarItem.prominentBackground": "#305eff",
